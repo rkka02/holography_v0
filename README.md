@@ -22,4 +22,4 @@ This is a record of the problems I encountered while studying computer-generated
 **Q2**. (2024.07.25) When simulating hologram reconstruction on a computer, aliasing occurs. Why does this happen, and how can it be fixed?
 
 ![Aliasing in reconstructed image](_README/reconstruction_aliasing.png)
-*Figure 3: Aliasing in reconstructed image ($\theta = \pi/5$)*
+*Figure 3: Aliasing in reconstructed image (theta = pi/5)*
