@@ -1,2 +1,2 @@
-from .Plane_wave_generator import Plane_wave_generator
-from .Spherical_wave_generator import Spherical_wave_generator
+from .Plane import Plane
+from .Spherical import Spherical
