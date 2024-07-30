@@ -1,2 +1,3 @@
-from .Direct_propagator import direct_diffraction
-from .Fresnel_propagator import Fresnel_propagator
+from .Fresnel import Fresnel
+from .Fraunhofer import Fraunhofer
+from .Angular_spectrum import Angular_spectrum
